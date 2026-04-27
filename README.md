@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Sema 👋
 
-<!--
-**semaaslann/semaaslann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineer & Machine Learning Enthusiast  
 
-Here are some ideas to get you started:
+I am a Computer Engineering graduate focused on building scalable data systems and AI-driven solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  What I'm working on
+- 🔹 Real-time Data Pipeline (Kafka + Spark)
+- 🔹 Churn Prediction (Machine Learning)
+- 🔹 Logistics Optimization 
+- 🔹 AI Agent Project (Google-based tools)
+
+---
+
+##  Tech Stack
+
+### Data & AI
+- Python, Pandas, NumPy  
+- Machine Learning (LightGBM)  
+- Apache Kafka, Apache Spark  
+- PostgreSQL  
+
+### Backend Development
+- C#, ASP.NET Core  
+- Java, JavaScript  
+
+---
+
+##  Featured Projects
+-  Data Pipeline Project  
+-  Churn Prediction Model  
+-  Logistics Optimization System  
+-  AI Agent Project  
+
+---
+
+##  Contact
+- LinkedIn: https://www.linkedin.com/in/SEMANUR-LINKİN
+
+---
+
+⭐ Currently improving my skills in Data Engineering & AI
